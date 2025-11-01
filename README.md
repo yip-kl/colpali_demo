@@ -1,0 +1,1 @@
+Code for using ColPali for multimodal RAG. Please refer to this [article](https://towardsdatascience.com/bringing-vision-language-intelligence-to-rag-with-colpali/) for details
